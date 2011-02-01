@@ -1,0 +1,4 @@
+First, do a "make" in the library directory.
+Then, do a "make" in the tt-dec directory.
+
+Finally, run "./tt-dec inputfile.wav" with a valid wave file and watch it go nuts.
